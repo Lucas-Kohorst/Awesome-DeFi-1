@@ -39,6 +39,7 @@ A curated list of awesome decentralized finance projects in ethereum.
 * [cDAI](https://compound.finance/ctokens) - DAI is deposited in Compound, which represents balance earning interest.
 * [dDAI](https://github.com/dharma-eng/dharma-token) - wrapped [cDAI](https://compound.finance/ctokens) to retain 10% of the interest earned.
 * [ocDAI](https://opyn.co/#/) - Inurance option for [cDAI](https://compound.finance/ctokens).
+* [plDAI](https://www.pooltogether.com/) - DAI deposited in PoolTogether as tickets to participate in a no-loss, audited savings game.
 
 <a name="lending" />
 
