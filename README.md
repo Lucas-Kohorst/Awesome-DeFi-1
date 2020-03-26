@@ -5,12 +5,14 @@ A curated list of awesome decentralized finance projects in ethereum.
 
 - [Wallet](#wallet)
 - [Stablecoin](#stablecoin)
+- [Saving](#saving)
 - [Lending](#lending)
 - [Swap](#swap)
 - [Margin Trading](#margin)
 - [DEX Aggregator](#dex-aggregator)
 - [Wrapped BTC](#wrapped-btc)
 - [Oracle](#oracle)
+- [Insurance](#insurance)
 
 
 
@@ -48,6 +50,14 @@ A curated list of awesome decentralized finance projects in ethereum.
 * [ocDAI](https://opyn.co/#/) - Inurance option for [cDAI](https://compound.finance/ctokens).
 
 * [plDAI](https://www.pooltogether.com/) - DAI is deposited in PoolTogether as tickets to participate in a no-loss, audited savings game.
+
+
+
+<a name="saving" />
+
+## Saving
+
+* [defi saver](https://defisaver.com/)
 
 
 
@@ -89,6 +99,8 @@ A curated list of awesome decentralized finance projects in ethereum.
 
 * [fulcrum](https://fulcrum.trade/)
 
+* [liquid long](https://liquid-long.keydonix.com/#/) - Leverage your eth position.
+
 
 
 <a name="dex-aggregator" />
@@ -115,4 +127,13 @@ A curated list of awesome decentralized finance projects in ethereum.
 ## Oracle
 
 * [Chainlink](https://chain.link/)
+
+
+
+<a name="insurance" />
+
+## Insurance
+
+* [opyn](https://opyn.co/#/)
+* [nexus mutual](https://app.nexusmutual.io/)
 
