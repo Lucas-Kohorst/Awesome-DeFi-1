@@ -10,6 +10,7 @@ A curated list of awesome decentralized finance projects in ethereum.
 - [Margin Trading](#margin)
 - [DEX Aggregator](#dex-aggregator)
 - [Wrapped BTC](#wrapped-btc)
+- [Oracle](#oracle)
 
 
 
@@ -95,6 +96,7 @@ A curated list of awesome decentralized finance projects in ethereum.
 ## Dex Aggregator
 
 * [1inch](https://1inch.exchange/#/)
+* [dex.ag](https://dex.ag/)
 
 
 
@@ -105,3 +107,12 @@ A curated list of awesome decentralized finance projects in ethereum.
 * [WBTC](https://www.wbtc.network/) - An ERC20 token backed 1:1 with Bitcoin.
 * [HBTC](https://www.hbtc.finance/) - An ERC20 token issued by [huobi](https://www.huobi.com/).
 * [imBTC](https://tokenlon.im/imBTC) - An ERC20 token issued by [Tokenlon](https://tokenlon.im/).
+
+
+
+<a name="oracle" />
+
+## Oracle
+
+* [Chainlink](https://chain.link/)
+
